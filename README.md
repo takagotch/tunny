@@ -46,6 +46,8 @@ func main() {
 ```
 
 ```
+go get github.com/Jeffail/tunny
+dep ensure -add github.com/Jeffail/tunny
 ```
 
 ```
